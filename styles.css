@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 90px;
+}
+
+hr {
+  border-style: dotted;
+  border-width: thick 0 0 0;
+  border-color: gray;
+  width: 6%;
+}
+
+/* Introduction */
+#introduction {
+  color: #fff;
+}
+
+.navbar {
+  padding-left: 4.5rem;
+  padding-right: 4.5rem;
+}
+
+.nav-item {
+  padding-left: 50px;
+}
+
+.snig-icon {
+  margin-right: 13px;
+}
+
+.introduction-div {
+  background-color: #1ebbd7;
+  text-align: center;
+  padding: 20%;
+}
+
+/* About Me */
+.about-me-div {
+  padding: 5% 10%;
+}
+
+.snigdha-image {
+  height: 100%;
+  width: 65%;
+  border-radius: 100%;
+}
+
+.my-image {
+  text-align: center;
+}
+
+.my-description {
+  padding-top: 30px;
+  text-align: center;
+}
+
+/* Projects */
+#projects {
+  padding: 5% 10% 5%;
+
+  text-align: center;
+}
+
+.projects-title {
+  font-weight: bold;
+}
+
+.work-icon {
+  padding-right: 13px;
+}
+
+.projects-div {
+  padding-top: 3%;
+}
+
+.project-card {
+  padding: 2% 3%;
+}
+
+.project-small-card {
+  padding: 2% 3%;
+}
+
+/* Skills */
+
+#skills {
+  padding: 5% 10% 5%;
+  background-color: #1ebbd7;
+  color: #fff;
+}
+
+.skills-header {
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.skills-icon {
+  padding-right: 13px;
+}
+
+.skill{
+  padding: 3% 3%;
+  text-align: center;
+}
+
+.skills-body-icon {
+  padding-bottom: 10px;
+  color: #fff;
+}
+
+.skills-body-icon:hover{
+  color: #005073;
+}
+/* Contact Me */
+
+#contact-me {
+  padding: 5% 10% 5%;
+  background-color: #1ebbd7;
+  text-align: center;
+  color: #fff;
+}
+
+.comments-icon {
+  padding-right: 13px;
+}
+
+.contact-me-body {
+  padding: 2%;
+  line-height: 1.5;
+  font-size: 1.7rem;
+}
+
+.contact-bottom {
+  margin-bottom: 4%;
+}
+
+.contact-btn {
+  padding: 1% 3%;
+}
+
+.s-i {
+  padding-top: 4%;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.s-i:hover {
+  color: #005073;
+}
+/* Footer */
+
+#footer {
+  text-align: center;
+  padding: 3%;
+}
